@@ -1,0 +1,41 @@
+[
+  {
+    "$type": "student",
+    "Course": null,
+    "StudentID": "KB12345678",
+    "GPA": null,
+    "Country": null,
+    "NumberOfTheScoreBook": null,
+    "Methods": [
+      "PlayChess",
+      "Study"
+    ],
+    "LastName": "asda"
+  },
+  {
+    "$type": "student",
+    "Course": 2,
+    "StudentID": "KB12345678",
+    "GPA": null,
+    "Country": null,
+    "NumberOfTheScoreBook": null,
+    "Methods": [
+      "PlayChess",
+      "Study"
+    ],
+    "LastName": "asd"
+  },
+  {
+    "$type": "student",
+    "Course": 3,
+    "StudentID": "Kb12345678",
+    "GPA": 3,
+    "Country": "Ukraine",
+    "NumberOfTheScoreBook": null,
+    "Methods": [
+      "PlayChess",
+      "Study"
+    ],
+    "LastName": "sfs"
+  }
+]

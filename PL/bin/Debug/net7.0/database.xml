@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entity xsi:type="Student">
+    <LastName>Bohdan</LastName>
+    <StudentID>KB12345678</StudentID>
+    <Gender>Male</Gender>
+    <Course>3</Course>
+    <DormNumber>11</DormNumber>
+    <DormRoom>123</DormRoom>
+  </Entity>
+</ArrayOfEntity>
